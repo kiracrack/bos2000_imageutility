@@ -1,0 +1,14 @@
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\bin\Debug\BOS2000 Image Viewer.exe.config
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\bin\Debug\BOS2000 Image Viewer.exe
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\bin\Debug\BOS2000 Image Viewer.pdb
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\bin\Debug\BOS2000 Image Viewer.xml
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000_Image_Viewer.ImageViewer.resources
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000_Image_Viewer.Resources.resources
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.exe
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.xml
+D:\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.pdb
+C:\My Files\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\bin\Debug\BOS2000 Image Viewer.exe.config
+C:\My Files\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.exe
+C:\My Files\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.xml
+C:\My Files\My.Net\System Core\BOS2000 Utility\BOS2000 Image Viewer\BOS2000 Image Viewer\obj\Debug\BOS2000 Image Viewer.pdb
